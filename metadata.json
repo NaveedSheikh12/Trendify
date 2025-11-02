@@ -1,0 +1,5 @@
+{
+  "name": "Trendify AI: Image Editor",
+  "description": "An application that allows users to edit images using text prompts with the Gemini 2.5 Flash Image model, transforming selfies into high-quality, trending AI styles.",
+  "requestFramePermissions": []
+}
